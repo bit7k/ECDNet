@@ -1,1 +1,30 @@
 # ECDNet
+
+Decoupling Edge and Content Priors in Conditional Diffusion for
+Breast Ultrasound Lesion Segmentation
+
+![](.\Overall.png)
+
+## 🔗 Dataset
+
+download the dataset [BUSI](https://scholar.cu.edu.eg/?q=afahmy/pages/dataset) and [BUS-BRA](https://github.com/wgomezf/BUS-BRA)
+
+## Experimental Environment
+
+```
+pip install -r requirements.txt
+```
+
+## Usage
+
+### Training
+
+```
+python train.py 
+```
+
+### Testing
+
+```
+python test.py 
+```
