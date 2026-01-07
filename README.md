@@ -3,7 +3,7 @@
 Decoupling Edge and Content Priors in Conditional Diffusion for
 Breast Ultrasound Lesion Segmentation
 
-![](.\Overall.png)
+![](Overall.png)
 
 ## 🔗 Dataset
 
